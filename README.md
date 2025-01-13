@@ -1,3 +1,3 @@
-# Hi, i am Truong Chinh (NTC)
+# NTC++
  This is my github page 
  __TruongChinh304__
