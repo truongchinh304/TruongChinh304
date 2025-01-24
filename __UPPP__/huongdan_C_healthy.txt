@@ -1,0 +1,52 @@
+Hướng dẫn sử dụng các hàm tính toán:
+
+1. **BMI**: Nhập theo cú pháp BMI([cân nặng] [chiều cao]).
+Ví dụ: BMI(60, 1.75)
+
+2. **BMR**: Nhập theo cú pháp BMR([giới tính] [cân nặng], [chiều cao], [tuổi]).
+   Ví dụ: BMR('nam', 70, 1.75, 25)
+
+3. **TDEE**: Nhập theo cú pháp TDEE([giới tính] [cân nặng], [chiều cao], [tuổi], [chỉ số vận động]).
+   Ví dụ: TDEE('nam', 70, 1.75, 25, 3)
+
+4. **WHR**: Nhập theo cú pháp WHR([giới tính] [vòng eo] [vòng hông]).
+   Ví dụ: WHR('nữ', 70, 90)
+
+5. **LBM**: Nhập theo cú pháp LBM([giới tính] [cân nặng] [chiều cao]).
+   Ví dụ: LBM('nam', 70, 1.75)
+
+6. **FFMI**: Nhập theo cú pháp FFMI([giới tính] [cân nặng] [chiều cao]).
+   Ví dụ: FFMI('nam', 70, 1.75)
+
+7. **RFM**: Nhập theo cú pháp RFM([vòng eo] [chiều cao]).
+   Ví dụ: RFM(70, 1.75)
+
+8. **BFP**: Nhập theo cú pháp BFP([giới tính] [cân nặng] [chiều cao] [tuổi]).
+   Ví dụ: BFP('nam', 70, 1.75, 25)
+
+9. **BBW**: Nhập theo cú pháp BBW([cân nặng]).
+   Ví dụ: BBW(70)
+
+10. **IBW**: Nhập theo cú pháp IBW([giới tính] [chiều cao]).
+    Ví dụ: IBW('nam', 1.75)
+
+11. **MA**: Nhập theo cú pháp MA([giới tính] [cân nặng] [chiều cao] [tuổi]).
+    Ví dụ: MA('nam', 70, 1.75, 25)
+
+12. **VFR**: Nhập theo cú pháp VFR([vòng eo] [vòng hông]).
+    Ví dụ: VFR(70, 90)
+
+13. **BSA**: Nhập theo cú pháp BSA([chiều cao] [cân nặng]).
+    Ví dụ: BSA(1.75, 70)
+
+14. **VO2MAX**: Nhập theo cú pháp VO2MAX([nhịp tim tối đa] [nhịp tim nghỉ]).
+    Ví dụ: VO2MAX(200, 70)
+
+15. **HSI**: Nhập theo cú pháp HSI([giới tính] [cân nặng] [chiều cao] [tuổi] [cholesterol] [huyết áp]).
+    Ví dụ: HSI('nam', 70, 1.75, 25, 200, 120)
+
+16. **MMI**: Nhập theo cú pháp MMI([khối lượng cơ bắp] [cân nặng]).
+    Ví dụ: MMI(30, 70)
+
+17. **BFM**: Nhập theo cú pháp BFM([giới tính] [cân nặng] [chiều cao] [tuổi]).
+    Ví dụ: BFM('nam', 70, 1.75, 25)
